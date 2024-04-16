@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/syccxdr/count.svg)
+**My** ![Visitor Count](https://profile-counter.glitch.me/syccxdr/count.svg) **visitor.**
 ### Hi there, I'm syccxdr👋 
 
 <!--
