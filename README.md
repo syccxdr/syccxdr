@@ -1,4 +1,5 @@
-### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/syccxdr/count.svg)
+### Hi there, I'm syccxdr👋 
 
 <!--
 **syccxdr/syccxdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
