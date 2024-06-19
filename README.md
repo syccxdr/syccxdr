@@ -10,7 +10,7 @@
 ### <div align="center">I'm syccxdr, a backend developer 👨‍💻 keep learning CS since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on the ML platform🤔.  
+- 🔭 I’m currently working on the MLOps platform🤔.  
   
 
 - 🤖  I’m currently learning OS and Kubernetes.  
