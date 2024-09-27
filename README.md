@@ -7,16 +7,16 @@
 </div>  
   
 
-### <div align="center">I'm syccxdr, a backend developer 👨‍💻 keep learning CS since 2019 🚀</div>  
+### <div align="center">I'm syccxdr, a backend developer 👨‍💻 keep programming since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on the MLOps platform🤔.  
   
 
-- 🤖  I’m currently learning OS and Kubernetes.  
+- 🤖  I’m currently learning DL and RAG.  
   
 
-- 👨‍🎓Expected to start the Master's journey at HKU, 2024/9. 💻  
+- 👨‍🎓 CS Master at HKU. 💻  
   
 
 - ⚡love playing basketball and reading.🏀  
