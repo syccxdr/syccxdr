@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on the MLOps platform🤔.  
   
 
-- 🤖  I’m currently learning MLSys and RAG.  
+- 🤖  I’m currently learning MLSys and LLM inference.  
   
 
 - 👨‍🎓 CS Master at HKU. 💻  
