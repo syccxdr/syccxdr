@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on the MLOps platform🤔.  
   
 
-- 🤖  I’m currently interested in Kubernetes and LLM inference.  
+- 🤖  I’m currently interested in Kubernetes and LLM Serving.  
   
 
 - 👨‍🎓 CS Master at HKU. 💻  
