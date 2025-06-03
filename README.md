@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm syccxdr, a backend developer 👨‍💻 keep programming since 2019 🚀</div>  
+### <div align="center">I'm syccxdr, a developer who loves basketball 🏀 and jazz 🎺. 👨‍💻 keep programming since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on the MLOps platform🤔.  
