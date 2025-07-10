@@ -7,13 +7,13 @@
 </div>  
   
 
-### <div align="center">I'm syccxdr, a developer who loves basketball 🏀 and jazz 🎺. 👨‍💻 keep programming since 2019 🚀</div>  
+### <div align="center">I'm syccxdr, a developer who loves basketball 🏀 and hiking 🌊 ⛰️. 👨‍💻 keep programming since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on the Mental health support AI assistant🤔.  
   
 
-- 🤖  I’m currently interested in Kubernetes and LLM Serving.  
+- 🤖  I’m currently interested in Kubernetes and LLM inference.  
   
 
 - 👨‍🎓 CS Master at HKU. 💻  
