@@ -1,5 +1,5 @@
 # Hi there👋
-**My** ![Visitor Count](https://profile-counter.glitch.me/syccxdr/count.svg) **visitor.**
+**My** ![Visitor Count](https://server.jagaldol.com/profile-counter/syccxdr/count.svg) **visitor.**
  
 
 <div align="center">
