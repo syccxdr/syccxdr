@@ -19,7 +19,7 @@
 - 👨‍🎓 CS Master at HKU. 💻  
   
 
-- ⚡love playing basketball🏀  and reading📖. 
+- ⚡love playing basketball and reading 📖. 
   
 
 <br/>  
