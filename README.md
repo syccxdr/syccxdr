@@ -10,10 +10,10 @@
 ### <div align="center">I'm syccxdr, a developer who loves basketball 🏀 and hiking 🌊 ⛰️. 👨‍💻 keep programming since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on the Mental health support AI assistant 🤔.  
+- 🔭 I’m currently working on the Mental Health Support AI assistant 🤔.  
   
 
-- 🤖  I’m currently interested in Context Engineering and LLM inference engine 🚀.  
+- 🤖  I’m currently interested in Context Engineering and LLM Inference Engine 🚀.  
   
 
 - 👨‍🎓 CS Master at HKU. 💻  
