@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm syccxdr, a developer who loves basketball 🏀 and hiking 🌊 ⛰️. 👨‍💻 keep programming since 2019 🚀</div>  
+### <div align="center">I'm syccxdr, a developer who loves basketball 🏀 and hiking 🌊 ⛰️.</div>  
   
 
 - 🔭 I’m currently working on the Mental Health Support AI assistant 🤔.  
